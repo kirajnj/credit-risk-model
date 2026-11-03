@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+# Data 
+train_data/
+processed/
+*.parquet
+
+# Env
+.venv/
+venv/
+.env
